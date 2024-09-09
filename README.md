@@ -18,15 +18,19 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b> (21H2) (On Virtual Machine)
+- MacOs Sonoma (Host Computer)
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Created resources and activities on Microsoft Azure
+- Set up a VPN in the virtual machine
+- Implemented Network Security Group
+- Analyzed network traffic using Wireshark
+- Analyzed network protocols using command-line tools
+- Monitored ICMP and test connectivity using ping
+- Administered SSH in the command line
+- Set up RDP for VM1 and VM2 and monitor the traffic between them
 
 <h2>Configuration Steps</h2>
 
@@ -34,7 +38,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Created resources and activities in Microsoft Azure. Set up VPN in the cloud Azure tenant. Created resource group, subnet, VM1, VM2 (Linux), and network security group. 
 </p>
 <br />
 
@@ -42,7 +46,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Used Wireshark to analyze network traffic. In the Windows Command Line Tool, checked the network protocols such as the tenant, subnet, and the 2 virtual machines being monitored.  
 </p>
 <br />
 
@@ -50,6 +54,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Viewed ICMP through Wireshark. Implemented ping command to test connectivity between VM1 and VM2. Used Remote Desktop Protocol for VMs in my host computer (macOS). 
 </p>
 <br />
