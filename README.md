@@ -55,7 +55,8 @@
 <img src="https://github.com/user-attachments/assets/70cc655e-5d87-4457-abcb-524c1d7861d7"/>
 </p>
 <p>
-Used Wireshark to analyze network traffic. In the Windows Command Line Tool, checked the network protocols such as the tenant, subnet, and the 2 virtual machines being monitored.  
+1.	Analyzed network traffic using Wireshark: Utilized Wireshark to capture and examine live network packets, allowing for in-depth analysis of network traffic patterns. This analysis helped identify potential issues such as latency, packet loss, and unauthorized access attempts, providing insights into the overall health and performance of the network.
+2.	Checked network protocols in the Windows Command Line Tool: Employed the Windows Command Line Tool to verify and troubleshoot network protocols. Specifically, commands were executed to inspect the configurations of the Azure tenant, the associated subnet, and the two virtual machines (VM1 and VM2). This step included verifying IP address allocations, subnet masks, and routing configurations to ensure that all network components were correctly set up and functioning as intended. The monitoring process also involved checking for connectivity issues and confirming that both VMs were communicating effectively within the defined network environment. 
 </p>
 <br />
 
@@ -63,6 +64,8 @@ Used Wireshark to analyze network traffic. In the Windows Command Line Tool, che
 <img src="https://github.com/user-attachments/assets/05ef2a2d-4122-419d-b594-fbc64b0ed5ef"/>  
 </p>
 <p>
-Viewed ICMP through Wireshark. Implemented ping command to test connectivity between VM1 and VM2. Used Remote Desktop Protocol for VMs in my host computer (macOS). 
+1.	Viewed ICMP traffic through Wireshark: Monitored Internet Control Message Protocol (ICMP) packets using Wireshark to analyze network connectivity and performance. This observation allowed for the detection of any network issues related to packet loss or latency.
+2.	Implemented the ping command to test connectivity between VM1 and VM2: Executed the ping command from one virtual machine to the other to verify successful communication and assess the round-trip time of packets. This test helped ensure that both VMs were properly connected within the network and that there were no disruptions in connectivity.
+3.	Used Remote Desktop Protocol (RDP) for accessing VMs from the host computer (macOS): Established Remote Desktop Protocol (RDP) connections to both VM1 (Windows) and VM2 (Linux) from the macOS host computer. This setup enabled seamless remote management and interaction with the virtual machines, facilitating tasks such as software installation and configuration.
 </p>
 <br />
