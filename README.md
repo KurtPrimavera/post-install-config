@@ -42,7 +42,12 @@
 <img src="https://github.com/user-attachments/assets/665fcabd-0896-4ed5-8b3d-b4e606196b7c"/>
 </p>
 <p>
-Created resources and activities in Microsoft Azure. Set up VPN in the cloud Azure tenant. Created resource group, subnet, VM1 (Windows), VM2 (Linux), and network security group. 
+1.	Created resources and activities in Microsoft Azure: Developed a structured environment to facilitate application deployment and management within the Azure cloud platform.
+2.	Set up a Virtual Private Network (VPN) in the Azure cloud tenant: Established a secure VPN connection to enable encrypted communication between on-premises resources and Azure, ensuring data privacy and security.
+3.	Established a resource group and subnet: Organized resources into a dedicated resource group for better management and applied a subnet configuration to segment the network for improved performance and security.
+4.	Deployed VM1 (Windows) and VM2 (Linux) within the resource group: Provisioned a Windows virtual machine (VM1) for Windows-based applications and a Linux virtual machine (VM2) for development and testing purposes, optimizing for diverse workloads.
+5.	Configured a Network Security Group (NSG): Set up an NSG to define inbound and outbound security rules, controlling access to resources within the network and enhancing overall security posture.
+
 </p>
 <br />
 
