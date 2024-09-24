@@ -8,8 +8,8 @@
 
 <h2>Environments and Technologies Used</h2>
 
-•	Microsoft Azure (Virtual Machines/Compute): Cloud platform for scalable computing resources.
-	•	Remote Desktop Protocol (RDP): Protocol for secure remote access to desktop environments.
+- Microsoft Azure (Virtual Machines/Compute): Cloud platform for scalable computing resources.
+- Remote Desktop Protocol (RDP): Protocol for secure remote access to desktop environments.
 	•	Internet Information Services (IIS): Web server software for hosting and managing web applications.
 	•	Virtual Private Network (VPN): Technology that creates a secure connection over the internet for remote access.
 	•	Network Security Group (NSG): Azure feature that controls inbound and outbound traffic to resources.
