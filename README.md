@@ -21,9 +21,9 @@
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2) (On Virtual Machine)
-- MacOs Sonoma (Host Computer)
-- Linux (Ubuntu)
+- Windows 10 (21H2): Installed on a virtual machine for development and testing purposes.
+- macOS Sonoma: The primary host operating system on the main computer.
+- Linux (Ubuntu): Open-source operating system utilized for development and application tasks.
 
 <h2>Post-Install Configuration Objectives</h2>
 
