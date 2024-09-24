@@ -27,14 +27,14 @@
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Created resources and activities on Microsoft Azure
-- Set up a VPN in the virtual machine
-- Implemented Network Security Group
-- Analyzed network traffic using Wireshark
-- Analyzed network protocols using command-line tools
-- Monitored ICMP and test connectivity using ping
-- Administered SSH in the command line
-- Set up RDP for VM1 and VM2 and monitor the traffic between them
+- Created resources and activities in Microsoft Azure to support application deployment.
+- Configured a Virtual Private Network (VPN) within the virtual machine for secure connectivity.
+- Implemented Network Security Groups (NSG) to manage and enforce network security policies.
+- Analyzed network traffic using Wireshark to identify potential issues and optimize performance.
+- Utilized command-line tools for in-depth analysis of network protocols.
+- Monitored ICMP traffic and verified connectivity using the ping command.
+- Administered Secure Shell (SSH) access through the command line for secure remote management.
+- Set up Remote Desktop Protocol (RDP) connections for VM1 and VM2, while monitoring traffic between them.
 
 <h2>Configuration Steps</h2>
 
