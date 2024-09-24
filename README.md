@@ -8,16 +8,16 @@
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop Protocol
-- Internet Information Services (IIS)
-- VPN
-- Network Security Group
-- Wireshark
-- CMD Tools
-- Powershell (Administrator) 
-- ICMP
-- SSH
+•	Microsoft Azure (Virtual Machines/Compute): Cloud platform for scalable computing resources.
+	•	Remote Desktop Protocol (RDP): Protocol for secure remote access to desktop environments.
+	•	Internet Information Services (IIS): Web server software for hosting and managing web applications.
+	•	Virtual Private Network (VPN): Technology that creates a secure connection over the internet for remote access.
+	•	Network Security Group (NSG): Azure feature that controls inbound and outbound traffic to resources.
+	•	Wireshark: Network protocol analyzer used for monitoring and troubleshooting network traffic.
+	•	Command Line Tools (CMD): Interface for executing commands and scripts in Windows environments.
+	•	PowerShell (Administrator): Task automation and configuration management framework for Windows.
+	•	Internet Control Message Protocol (ICMP): Network layer protocol used for diagnostic functions and error reporting.
+	•	Secure Shell (SSH): Protocol for secure remote login and command execution on servers.
 
 <h2>Operating Systems Used </h2>
 
